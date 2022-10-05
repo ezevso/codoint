@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu{
+    text-decoration: none;
+}
+
+.navbar-brand{
+    text-emphasis-color: white;
+}
+
+.ul{
+    list-style: none;
+}
+.menu>li{
+    display: inline-block;
+}
+
+.link{
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color:aliceblue;
+}
+
+.bgAguas{
+    background-image: url("../images/ba1.jpg") ;
+    background-size: cover;
+    background-position: 100%;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    
+}
+
+.tx-orador{
+    text-align: center;
+    
+}
+
+.tx-orador>h6{
+    padding: 0.5%;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    margin: 1rem;
+    padding: 0%;
+    
+}
+
+
+
+
+.op{
+    background-color: #566573;
+    color: aliceblue;
+    margin: 0%;
+    padding: 2%;
+    
+}
+
+.op2{
+    padding: 2%;
+}
+
+.btn-green{
+    background-color: #28B463 ;
+    border-color: #28B463;
+  
+}
+
+.btn-trans{
+    color: aliceblue;
+    text-shadow: 5px;
+      
+}
+
+.tx-charla{
+    font-size: small;
+}
+
+.foot{
+    background-color: #1A5276;
+}
