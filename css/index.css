@@ -91,3 +91,46 @@
 .foot{
     background-color: #1A5276;
 }
+
+.bo{
+    display: inline-block;
+}
+
+.card{
+    display: flex;
+    max-width: 50%;
+
+}
+
+#blue{
+    border-color: #1978b3;
+    border-radius: 0;
+}
+
+#green{
+    border-color: #14723b;
+    border-radius: 0;
+}
+
+#orange{
+    border-color: darkorange;
+    border-radius: 0;
+}
+
+#title{
+    padding: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#total{
+    padding: 0.5 em;
+    margin-top: 1em;
+    max-width: 49%;
+    max-height: 1 em;
+}
+
+#btn-form{
+    margin-bottom: 1em;
+    margin-top: 1.3em;
+}
